@@ -1,0 +1,33 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    background-color: lightgreen;
+
+}
+
+.header_div p{
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 12px;
+}
+
+.header_div{
+    background-color: lightgrey;
+    color: black;
+}
+
+.main_div button{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 12px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.copy_right_footer{
+    color: black;
+    background-color: lightblue;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+}
